@@ -1,0 +1,3 @@
+﻿  highlvl.cpp
+c:\users\user\source\repos\8lab.c\highlvl\highlvl\highlvl.cpp(184): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  highlvl.vcxproj -> C:\Users\User\source\repos\8Lab.C\highlvl\Debug\highlvl.exe

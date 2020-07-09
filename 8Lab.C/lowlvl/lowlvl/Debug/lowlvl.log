@@ -1,0 +1,3 @@
+﻿  lowlvl.cpp
+c:\users\user\source\repos\8lab.c\lowlvl\lowlvl\lowlvl.cpp(98): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  lowlvl.vcxproj -> C:\Users\User\source\repos\8Lab.C\lowlvl\Debug\lowlvl.exe

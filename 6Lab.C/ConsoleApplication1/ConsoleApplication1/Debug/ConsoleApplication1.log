@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\user\source\repos\6lab.c\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\6lab.c\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\User\Source\Repos\6Lab.C\ConsoleApplication1\Debug\ConsoleApplication1.exe

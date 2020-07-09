@@ -1,0 +1,51 @@
+﻿  ConsoleApplication2.cpp
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(136): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(144): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(148): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(150): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(156): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(160): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(162): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(167): warning C4566: символ, представленный универсальным именем символа "\u0305", невозможно представить в текущей кодовой странице (1251)
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(96): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(100): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(102): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(108): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(112): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(114): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(120): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(124): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(126): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(132): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(136): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(138): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(144): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(148): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(150): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(156): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(160): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(162): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\user\source\repos\3lab.c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(167): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note:  см. объявление "strcat"

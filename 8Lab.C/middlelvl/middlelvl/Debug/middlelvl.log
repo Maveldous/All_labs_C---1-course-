@@ -1,0 +1,3 @@
+﻿  middlelvl.cpp
+c:\users\user\source\repos\8lab.c\middlelvl\middlelvl\middlelvl.cpp(132): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  middlelvl.vcxproj -> C:\Users\User\Source\Repos\8Lab.C\middlelvl\Debug\middlelvl.exe
